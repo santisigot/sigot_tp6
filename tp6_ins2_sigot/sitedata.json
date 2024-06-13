@@ -1,0 +1,20 @@
+
+{
+"bancos": {
+        "Galicia": {
+        "nombre": "Galicia",
+        "saldo": 1000,
+        "token": "token1"
+        },
+        "Entre Rios": {
+        "nombre": "Entre Rios",
+        "saldo": 2000,
+        "token": "token2"
+        },
+        "Santander": {
+        "nombre": "Santander",
+        "saldo": 2000,
+        "token": "token3"
+        }
+}
+}
